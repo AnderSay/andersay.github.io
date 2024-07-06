@@ -24,7 +24,7 @@ This project aims to solve the problem of **X** by implementing a **Y** solution
 
 The problem of **X** has been widely studied in the field of **Z**. However, existing solutions suffer from several limitations, such as...
 
-![Diagram of X](./rikroll.gif)
+<!-- ![Diagram of X](./rikroll.gif) -->
 
 ## Related Work
 
@@ -49,3 +49,8 @@ import pandas as pd
 data = pd.read_csv('data.csv')
 print(data.head())
 ```
+
+### Click here))
+
+[![IMAGE ALT TEXT](./rikroll.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
